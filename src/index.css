@@ -349,6 +349,10 @@ button {
 .display-cart {
   display: block !important;
 }
+.coded-by {
+  width: 100vw;
+  text-align: center;
+}
 @media (max-width: 720px) {
   .Navbar ul {
     display: none;
